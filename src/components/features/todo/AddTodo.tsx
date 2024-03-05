@@ -1,4 +1,3 @@
-import React from "react";
 import { Icons } from "@/components/icons/Icons";
 import { FloatButton } from "@/components/shared/FloatButton";
 
